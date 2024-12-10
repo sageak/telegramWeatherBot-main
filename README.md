@@ -33,7 +33,6 @@ $ node bot.js
 
 This should start the telegram bot.
 
-The bot url is [weatherBot](https://t.me/hospals_weather_bot)
 
 ## Bot Commands
 
@@ -58,6 +57,6 @@ $ npm run test:cov
 ## Admin Panel 
 
 The admin panel has been created and deployed using vercel and railway.
-The admin panel is available at [Admin Panel](https://bot-client-rho.vercel.app/)
+
 
 
